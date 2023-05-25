@@ -16,10 +16,10 @@
             "description": "df64deb205933fbe14e50237b5ab68f2"
         },
         "FROM_CHANNEL": {
-            "description": "from channel ids for auto post, Use Space to add multiple Channels"
+            "description": "-1001898195798"
         },
         "TO_CHANNEL": {
-            "description": "to channel or group or chat id for auto post"
+            "description": "-1001637472131"
         },
         "SESSION": {
             "description": "Enter the session id got from repl https://replit.com/@TeamUltroid/UltroidStringSession"
